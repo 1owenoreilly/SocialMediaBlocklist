@@ -862,3 +862,9 @@
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.tiktokv.com
 0.0.0.0 xlog.tiktokv.com.edgesuite.net
+
+
+#Telegram
+0.0.0.0 web.telegram.org
+0.0.0.0 www.telegram.org
+0.0.0.0 telegram.org
