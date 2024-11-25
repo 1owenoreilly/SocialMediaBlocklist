@@ -868,3 +868,5 @@
 0.0.0.0 web.telegram.org
 0.0.0.0 www.telegram.org
 0.0.0.0 telegram.org
+0.0.0.0 t.me
+0.0.0.0 telegram.me 
